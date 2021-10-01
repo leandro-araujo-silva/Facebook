@@ -3,7 +3,7 @@
 ## Demonstração 📸
 
 <div align="center" >
-  <img src="_imagens/face.png" alt="login-facebook" width="450" height="350">
+  <img src="_imagens/face.png" alt="login-facebook" width="550" height="350">
 </div>
 
 ---
